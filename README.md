@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Full Stack Web Development
 - 🌱 I’m currently learning ... Data Science & AI
 - 💞️ I’m looking to collaborate on ... My Career
-- 📫 How to reach me ... Linkedin
+- 📫 How to reach me ... Linkedin & Instagram
 - 😄 Pronouns: DK
 - ⚡ Fun fact: Iam a non technical background Person
 
