@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dineshkumardhanapal
-- 👀 I’m interested in ...Full Stack Web Development
+- 👀 I’m interested in ... AI Driven Full Stack Web Development
 - 🌱 I’m currently learning ... Data Science & AI
 - 💞️ I’m looking to collaborate on ... My Career
 - 📫 How to reach me ... Linkedin & Instagram
