@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dineshkumardhanapal
 - 👀 I’m interested in ... AI Driven Full Stack Web Development
-- 🌱 I’m currently learning ... Data Science & AI
+- 🌱 I’m currently learning ... Data Science & AIML, DSA, System Design
 - 💞️ I’m looking to collaborate on ... My Career
 - 📫 How to reach me ... Linkedin & Instagram
 - 😄 Pronouns: DK
